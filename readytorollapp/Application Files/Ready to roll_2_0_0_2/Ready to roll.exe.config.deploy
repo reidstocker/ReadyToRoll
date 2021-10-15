@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+    </configSections>
+    <connectionStrings>
+        <add name="Ready_to_roll.Properties.Settings.PCStuff" connectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\Database1.mdf;Integrated Security=True"
+            providerName="System.Data.SqlClient" />
+        <add name="Ready_to_roll.Properties.Settings.CS" connectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=&quot;C:\ReadyToRoll APP\Application Files\Ready to roll_1_0_0_0\Database11.accdb&quot;"
+            providerName="System.Data.OleDb" />
+    </connectionStrings>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.7.2" />
+    </startup>
+</configuration>
